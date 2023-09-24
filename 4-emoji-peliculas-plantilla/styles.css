@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(255, 231, 191);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: rgb(152, 100, 27);
+}
+
+h2 {
+    color: rgb(214, 147, 0);
+}
+
+details {
+    font-size: 1.8rem;
+}
+
+summary {
+    font-size: 4rem;
+    width: fit-content;
+}
+
+.pink {
+    background-color: rgb(255, 203, 240);
+}
+
+.white {
+    background-color: white
+}
